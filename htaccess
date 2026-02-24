@@ -1,0 +1,53 @@
+ErrorDocument 403 /page34636705.html
+ErrorDocument 404 /page34636705.html
+
+DirectoryIndex page21613458.html
+
+RewriteEngine On
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^(.*)$ https://oggetto\.academy/$1 [R=301,L]
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =https
+RewriteCond %{HTTP_HOST} ^www\.oggetto.academy [NC]
+RewriteRule ^(.*)$ https://oggetto\.academy/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^oggy-girl-scholarship$ page25233724.html [NC]
+RewriteRule ^oggy-girl-scholarship/$ page25233724.html [NC]
+
+RewriteRule ^backend-application$ page27503958.html [NC]
+RewriteRule ^backend-application/$ page27503958.html [NC]
+
+RewriteRule ^frontend-application$ page27739879.html [NC]
+RewriteRule ^frontend-application/$ page27739879.html [NC]
+
+RewriteRule ^qa-application$ page27739954.html [NC]
+RewriteRule ^qa-application/$ page27739954.html [NC]
+
+RewriteRule ^analyst-application$ page27740019.html [NC]
+RewriteRule ^analyst-application/$ page27740019.html [NC]
+
+RewriteRule ^news-1$ page27692297.html [NC]
+RewriteRule ^news-1/$ page27692297.html [NC]
+
+RewriteRule ^opendoor-day-taganrog-2022$ page28373053.html [NC]
+RewriteRule ^opendoor-day-taganrog-2022/$ page28373053.html [NC]
+
+RewriteRule ^backend$ page29735799.html [NC]
+RewriteRule ^backend/$ page29735799.html [NC]
+
+RewriteRule ^analyst-detail$ page32558888.html [NC]
+RewriteRule ^analyst-detail/$ page32558888.html [NC]
+
+RewriteRule ^test$ page32621242.html [NC]
+RewriteRule ^test/$ page32621242.html [NC]
+
+RewriteRule ^nothing$ page34636705.html [NC]
+RewriteRule ^nothing/$ page34636705.html [NC]
+
+RewriteRule ^members/ ma_start.html [NC,L]
+
+

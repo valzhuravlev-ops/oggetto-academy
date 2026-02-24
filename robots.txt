@@ -1,0 +1,36 @@
+User-Agent: *
+Disallow: /page27278273.html
+Disallow: /page27692297.html
+Disallow: /news-1
+Disallow: /page28266481.html
+Disallow: /page28384896.html
+Disallow: /page27907202.html
+Disallow: /page28373053.html
+Disallow: /opendoor-day-taganrog-2022
+Disallow: /page27750139.html
+Disallow: /page28392221.html
+Disallow: /page29735799.html
+Disallow: /backend
+Disallow: /page32558888.html
+Disallow: /analyst-detail
+Disallow: /page32621242.html
+Disallow: /test
+Disallow: /page34636705.html
+Disallow: /nothing
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: https://oggetto.academy/sitemap.xml
+Sitemap: https://oggetto.academy/sitemap-feeds.xml
+Host: https://oggetto.academy
