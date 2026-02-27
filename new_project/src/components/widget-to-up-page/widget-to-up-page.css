@@ -1,0 +1,21 @@
+@media screen and (min-width: 981px) {
+  #rec435361301 .t890__arrow:hover svg path {
+    stroke: #ffffff;
+    stroke-width: 1;
+  }
+  #rec435361301 .t890__arrow:focus-visible svg path {
+    stroke: #ffffff;
+    stroke-width: 1;
+  }
+  #rec435361301 .t890__arrow:hover svg rect {
+    fill: #ffdd00;
+    fill-opacity: 1;
+  }
+  #rec435361301 .t890__arrow:focus-visible svg rect {
+    fill: #ffdd00;
+    fill-opacity: 1;
+  }
+}
+#rec435361301 .t890__arrow {
+  border-radius: 53px;
+}

@@ -112,6 +112,7 @@
         type="text/css"
       />
       <link rel="stylesheet" type="text/css" href="assets/css/custom.css?t=1750098704" />
+      {% getBundle "css" %}
       <script
         nomodule
         src="assets/js/tilda-polyfill-1.0.min.js"
@@ -365,13 +366,15 @@
     data-tilda-root-zone="com"
     data-tilda-project-headcode="yes"
   >
-    {% include "header.njk" %}
+    {% include "header/header.njk" %}
 
     {{ content | safe }}
 
-    {% include "widget-to-up-page.njk" %}
+    {% include "widget-to-up-page/widget-to-up-page.njk" %}
 
-    {% include "footer.njk" %}
+    {% include "footer/footer.njk" %}
+
+    {% getBundle "js" %}
   </div>
 </body>
 </html>

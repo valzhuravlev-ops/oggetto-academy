@@ -1,0 +1,171 @@
+#rec360788021 .t396__artboard {
+  height: 270px;
+  background-color: #ffffff;
+}
+#rec360788021 .t396__filter {
+  height: 270px;
+}
+#rec360788021 .t396__carrier {
+  height: 270px;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width: 1199px) {
+  #rec360788021 .t396__artboard,
+  #rec360788021 .t396__filter,
+  #rec360788021 .t396__carrier {
+    height: 280px;
+  }
+  #rec360788021 .t396__filter {
+  }
+  #rec360788021 .t396__carrier {
+    background-attachment: scroll;
+  }
+}
+@media screen and (max-width: 959px) {
+  #rec360788021 .t396__artboard,
+  #rec360788021 .t396__filter,
+  #rec360788021 .t396__carrier {
+    height: 285px;
+  }
+  #rec360788021 .t396__filter {
+  }
+  #rec360788021 .t396__carrier {
+    background-attachment: scroll;
+  }
+}
+@media screen and (max-width: 639px) {
+  #rec360788021 .t396__artboard,
+  #rec360788021 .t396__filter,
+  #rec360788021 .t396__carrier {
+    height: 280px;
+  }
+  #rec360788021 .t396__filter {
+  }
+  #rec360788021 .t396__carrier {
+    background-attachment: scroll;
+  }
+}
+@media screen and (max-width: 479px) {
+  #rec360788021 .t396__artboard,
+  #rec360788021 .t396__filter,
+  #rec360788021 .t396__carrier {
+    height: 220px;
+  }
+  #rec360788021 .t396__filter {
+  }
+  #rec360788021 .t396__carrier {
+    background-attachment: scroll;
+  }
+}
+#rec360788021 .tn-elem[data-elem-id="1470209944682"] {
+  color: #262626;
+  z-index: 2;
+  top: 55px;
+  left: calc(50% - 600px + 20px);
+  width: 660px;
+  height: auto;
+}
+#rec360788021 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
+  color: #262626;
+  font-size: 80px;
+  font-family: "Montserrat-ExtraBold", Arial, sans-serif;
+  line-height: 1;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-position: center center;
+  border-color: transparent;
+  border-style: solid;
+}
+@media screen and (max-width: 1199px) {
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] {
+    top: 60px;
+    left: calc(50% - 480px + 10px);
+    height: auto;
+  }
+}
+@media screen and (max-width: 959px) {
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] {
+    top: 12px;
+    left: calc(50% - 320px + 11px);
+    width: 608px;
+    height: auto;
+  }
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
+    font-size: 69px;
+    background-size: cover;
+  }
+}
+@media screen and (max-width: 639px) {
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] {
+    top: 26px;
+    left: calc(50% - 240px + 10px);
+    width: 459px;
+    height: auto;
+  }
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
+    font-size: 54px;
+    background-size: cover;
+  }
+}
+@media screen and (max-width: 479px) {
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] {
+    top: 32px;
+    left: calc(50% - 160px + 10px);
+    width: 312px;
+    height: auto;
+  }
+  #rec360788021 .tn-elem[data-elem-id="1470209944682"] .tn-atom {
+    font-size: 35px;
+    background-size: cover;
+  }
+}
+#rec360788021 .tn-elem[data-elem-id="1651832167222"] {
+  z-index: 9;
+  top: 6px;
+  left: calc(50% - 600px + 749px);
+  width: 412px;
+  height: auto;
+  pointer-events: none;
+}
+#rec360788021 .tn-elem[data-elem-id="1651832167222"] .tn-atom {
+  background-position: center center;
+  border-color: transparent;
+  border-style: solid;
+}
+#rec360788021 .tn-elem[data-elem-id="1651832167222"] .tn-atom__img {
+}
+@media screen and (max-width: 1199px) {
+  #rec360788021 .tn-elem[data-elem-id="1651832167222"] {
+    top: 21px;
+    left: calc(50% - 480px + 619px);
+    width: 330px;
+    height: auto;
+  }
+}
+@media screen and (max-width: 959px) {
+  #rec360788021 .tn-elem[data-elem-id="1651832167222"] {
+    top: 62px;
+    left: calc(50% - 320px + 359px);
+    width: 280px;
+    height: auto;
+  }
+}
+@media screen and (max-width: 639px) {
+  #rec360788021 .tn-elem[data-elem-id="1651832167222"] {
+    top: 121px;
+    left: calc(50% - 240px + 359px);
+    width: 280px;
+    height: auto;
+  }
+}
+@media screen and (max-width: 479px) {
+  #rec360788021 .tn-elem[data-elem-id="1651832167222"] {
+    top: 121px;
+    left: calc(50% - 160px + 359px);
+    width: 280px;
+    height: auto;
+  }
+}
