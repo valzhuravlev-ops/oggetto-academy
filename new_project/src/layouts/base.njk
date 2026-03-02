@@ -112,7 +112,9 @@
         type="text/css"
       />
       <link rel="stylesheet" type="text/css" href="assets/css/custom.css?t=1750098704" />
+      <style>
       {% getBundle "css" %}
+      </style>
       <script
         nomodule
         src="assets/js/tilda-polyfill-1.0.min.js"
@@ -374,7 +376,9 @@
 
     {% include "footer/footer.njk" %}
 
+    <script>
     {% getBundle "js" %}
+    </script>
   </div>
 </body>
 </html>
