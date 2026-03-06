@@ -103,12 +103,12 @@ img:not([src]) {
   font-weight: 700;
   color: #262626;
 }
-.t-descr {
+.oggy-descr {
   font-family: "Montserrat-ExtraBold", Arial, sans-serif;
   font-weight: 300;
   color: #5e5858;
 }
-.t-descr_xs {
+.oggy-descr_xs {
   font-size: 16px;
   line-height: 1.55;
 }
@@ -125,12 +125,12 @@ img:not([src]) {
   padding-bottom: 15px;
 }
 @media screen and (max-width: 1200px) {
-  .t-descr_xs {
+  .oggy-descr_xs {
     font-size: 14px;
   }
 }
 @media screen and (max-width: 640px) {
-  .t-descr_xs {
+  .oggy-descr_xs {
     font-size: 12px;
     line-height: 1.45;
   }

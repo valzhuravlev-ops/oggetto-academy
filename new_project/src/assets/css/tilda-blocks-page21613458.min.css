@@ -32,7 +32,7 @@
   outline-offset: 4px;
   outline-style: auto;
 }
-#allrecords .t-descr a:focus-visible,
+#allrecords .oggy-descr a:focus-visible,
 #allrecords .t-sociallinks a:focus-visible,
 #allrecords .ya-share2__link:focus-visible {
   outline-offset: 2px;
@@ -138,25 +138,25 @@ img:not([src]) {
   font-size: 24px;
   line-height: 1.35;
 }
-.t-title {
+.oggy-title {
   font-family: "Montserrat-ExtraBold", Arial, sans-serif;
   font-weight: 700;
   color: #262626;
 }
-.t-title_md {
+.oggy-title_md {
   font-size: 52px;
   line-height: 1.23;
 }
-.t-descr {
+.oggy-descr {
   font-family: "Montserrat-ExtraBold", Arial, sans-serif;
   font-weight: 300;
   color: #5e5858;
 }
-.t-descr_xxs {
+.oggy-descr_xxs {
   font-size: 14px;
   line-height: 1.55;
 }
-.t-descr_xs {
+.oggy-descr_xs {
   font-size: 16px;
   line-height: 1.55;
 }
@@ -249,13 +249,13 @@ img:not([src]) {
   padding-bottom: 60px;
 }
 @media screen and (max-width: 1200px) {
-  .t-descr_xxs {
+  .oggy-descr_xxs {
     font-size: 12px;
   }
-  .t-descr_xs {
+  .oggy-descr_xs {
     font-size: 14px;
   }
-  .t-title_md {
+  .oggy-title_md {
     font-size: 48px;
   }
   .t-name_xl {
@@ -263,11 +263,11 @@ img:not([src]) {
   }
 }
 @media screen and (max-width: 640px) {
-  .t-descr_xs {
+  .oggy-descr_xs {
     font-size: 12px;
     line-height: 1.45;
   }
-  .t-title_md {
+  .oggy-title_md {
     font-size: 30px;
   }
   .t-name_xl {

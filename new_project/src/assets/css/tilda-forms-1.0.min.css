@@ -448,8 +448,8 @@ fieldset.t-input-group {
   margin: 0 0 10px;
   position: relative;
 }
-.t-checkbox__control.t-text_xs,
-.t-radio__control.t-text_xs {
+.t-checkbox__control.oggy-text_xs,
+.t-radio__control.oggy-text_xs {
   line-height: 1;
 }
 .t-input-block:not(.t-input-block_rd-flex) .t-radio__control {

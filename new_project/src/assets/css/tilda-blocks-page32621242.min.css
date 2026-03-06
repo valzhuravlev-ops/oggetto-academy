@@ -98,16 +98,16 @@ img:not([src]) {
 .r_showed {
   opacity: 1;
 }
-.t-text {
+.oggy-text {
   font-family: "Montserrat", Arial, sans-serif;
   font-weight: 300;
   color: #5e5858;
 }
-.t-text_sm {
+.oggy-text_sm {
   font-size: 18px;
   line-height: 1.55;
 }
-.t-text_md {
+.oggy-text_md {
   font-size: 20px;
   line-height: 1.55;
 }
@@ -231,10 +231,10 @@ img:not([src]) {
   padding-bottom: 60px;
 }
 @media screen and (max-width: 1200px) {
-  .t-text_sm {
+  .oggy-text_sm {
     font-size: 16px;
   }
-  .t-text_md {
+  .oggy-text_md {
     font-size: 18px;
   }
   .t-name_lg {
@@ -242,11 +242,11 @@ img:not([src]) {
   }
 }
 @media screen and (max-width: 640px) {
-  .t-text_sm {
+  .oggy-text_sm {
     font-size: 14px;
     line-height: 1.45;
   }
-  .t-text_md {
+  .oggy-text_md {
     font-size: 16px;
     line-height: 1.45;
   }

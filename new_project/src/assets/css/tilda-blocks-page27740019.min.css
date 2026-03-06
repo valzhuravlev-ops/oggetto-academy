@@ -32,7 +32,7 @@
   outline-offset: 4px;
   outline-style: auto;
 }
-#allrecords .t-descr a:focus-visible,
+#allrecords .oggy-descr a:focus-visible,
 #allrecords .t-sociallinks a:focus-visible,
 #allrecords .ya-share2__link:focus-visible {
   outline-offset: 2px;
@@ -129,16 +129,16 @@ img:not([src]) {
     -webkit-tap-highlight-color: rgba(255, 255, 255, 0.1);
   }
 }
-.t-text {
+.oggy-text {
   font-family: "Montserrat", Arial, sans-serif;
   font-weight: 300;
   color: #5e5858;
 }
-.t-text_xs {
+.oggy-text_xs {
   font-size: 15px;
   line-height: 1.55;
 }
-.t-text_sm {
+.oggy-text_sm {
   font-size: 18px;
   line-height: 1.55;
 }
@@ -147,16 +147,16 @@ img:not([src]) {
   font-weight: 700;
   color: #262626;
 }
-.t-descr {
+.oggy-descr {
   font-family: "Montserrat-ExtraBold", Arial, sans-serif;
   font-weight: 300;
   color: #5e5858;
 }
-.t-descr_xxs {
+.oggy-descr_xxs {
   font-size: 14px;
   line-height: 1.55;
 }
-.t-descr_xs {
+.oggy-descr_xs {
   font-size: 16px;
   line-height: 1.55;
 }
@@ -254,29 +254,29 @@ img:not([src]) {
   padding-bottom: 15px;
 }
 @media screen and (max-width: 1200px) {
-  .t-text_xs {
+  .oggy-text_xs {
     font-size: 14px;
   }
-  .t-text_sm {
+  .oggy-text_sm {
     font-size: 16px;
   }
-  .t-descr_xxs {
+  .oggy-descr_xxs {
     font-size: 12px;
   }
-  .t-descr_xs {
+  .oggy-descr_xs {
     font-size: 14px;
   }
 }
 @media screen and (max-width: 640px) {
-  .t-text_xs {
+  .oggy-text_xs {
     font-size: 12px;
     line-height: 1.45;
   }
-  .t-text_sm {
+  .oggy-text_sm {
     font-size: 14px;
     line-height: 1.45;
   }
-  .t-descr_xs {
+  .oggy-descr_xs {
     font-size: 12px;
     line-height: 1.45;
   }

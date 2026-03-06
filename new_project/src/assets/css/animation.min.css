@@ -29,16 +29,16 @@
       -webkit-transform;
     transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
   }
-  .t-title.animate {
+  .oggy-title.animate {
     transition-duration: 1.2s;
   }
-  .t-descr.animate,
-  .t-subtitle.animate,
-  .t-text.animate,
-  .t-uptitle.animate {
+  .oggy-descr.animate,
+  .oggy-subtitle.animate,
+  .oggy-text.animate,
+  .oggy-uptitle.animate {
     transition-duration: 0.7s;
   }
-  .t-item.animate {
+  .oggy-item.animate {
     transition-duration: 0.5s;
   }
   .animate_started[data-animate-style="fadein"] {
